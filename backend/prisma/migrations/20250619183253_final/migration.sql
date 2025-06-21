@@ -1,0 +1,5 @@
+-- AlterTable
+ALTER TABLE "Lead" ALTER COLUMN "parentName" DROP NOT NULL,
+ALTER COLUMN "contactEmail" DROP NOT NULL,
+ALTER COLUMN "contactPhone" DROP NOT NULL,
+ALTER COLUMN "desiredClass" DROP NOT NULL;
