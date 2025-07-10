@@ -13,6 +13,8 @@ Utilized Frontend Tech, e.g., Next.js, Backend Tech, e.g., Express, and Database
 
 Managed project lifecycle using Agile Scrum methodologies, ensuring iterative development and successful deployment on Digital Ocean.
 
-#LIVE LINK : http://157.245.100.162:3001/
+#LIVE LINK : http://157.245.100.162:3001/                                                                                                                                                     
+
+
 User ID : admin@example.com      User ID : teacher@example.com           User Id : student@example.com
-Password : securehash            Password : securehash                   Password : securehash
+Password : securehash         
