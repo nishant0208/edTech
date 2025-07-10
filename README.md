@@ -1,3 +1,4 @@
+𝐀𝐛𝐨𝐮𝐭 𝐀𝐧𝐝 𝐋𝐢𝐯𝐞 𝐋𝐈𝐍𝐊 (𝐁𝐞𝐥𝐨𝐰)
 Institution Management
 Developed a full-stack Institution Management System with role-based access for Admin, Teacher, Student, and Parent users, streamlining educational workflows.
 
