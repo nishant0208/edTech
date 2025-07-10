@@ -16,5 +16,9 @@ Managed project lifecycle using Agile Scrum methodologies, ensuring iterative de
 #LIVE LINK : http://157.245.100.162:3001/                                                                                                                                                     
 
 
-User ID : admin@example.com      User ID : teacher@example.com           User Id : student@example.com
+User ID : admin@example.com     
+User ID : teacher@example.com  
+User Id : student@example.com
+
+
 Password : securehash         
